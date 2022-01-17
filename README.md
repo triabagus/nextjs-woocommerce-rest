@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 - [Next JS Tailwind with Sass](https://codeytek.com/next-js-tailwind-with-sass-example/)
 - [Repo NextJs Woocommerce Rest API](https://github.com/imranhsayed/nextjs-woocommerce-restapi)
+- [API wordpress local](http://localhost/reactwoocommerce.com/wp-json/rae/v1/header-footer?header_location_id=hcms-menu-header&footer_location_id=hcms-menu-footer)
